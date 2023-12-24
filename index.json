@@ -6,7 +6,7 @@
         "collections": "Exclusive,Bright,Photography",
         "downloadable": false,
         "copyright": "Wallpaper made for the app WallBox",
-            "wallpaperid": "2-e"
+        "size": "2-e"
     },
     {
         "name": "Airplane - night",
@@ -16,6 +16,6 @@
         "collections": "Exclusive,Dark,Photography",
         "downloadable": false,
         "copyright": "Wallpaper made for the app WallBox",
-        "wallpaperid": "1-e"
+        "size": "1-e"
     }
 ]
